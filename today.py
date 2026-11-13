@@ -20,7 +20,7 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 TAGLINE = "Full-Stack Engineer"
 TECH_LINE_1 = "React.js, Next.js, TypeScript, Node.js, NestJS"
 TECH_LINE_2 = "PostgreSQL, MongoDB, React Native, AWS, Docker"
-EMAIL = "official.ahmerdock@gmail.com"
+EMAIL = "contact.ahmerdock@gmail.com"
 LINKEDIN = "linkedin.com/in/ahmerdock"
 PORTFOLIO = "ahmerdock.com"
 
